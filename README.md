@@ -1,19 +1,19 @@
 # UserInformation
   This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 # Installation Steps
- #Step 1: Prerequisites for an angular project
-          Angular CLI
-          Node.js
-          Visual Studio Code
- #Step 2: To check if Node.js is already installed on your machine, check for its version using the following command. If it is already installed, it will return the             version number.  
-          For Node.js: Node -v
- #Step 3: Similarly, check whether the npm and Angular CLI are already installed with the following command to check the version.
-          For NPM: npm -v
-          For Angular CLI: ng version
- #Step 4: If they aren’t installed, install them with the details below
-          Node.js: https://nodejs.org/en/download/
-          Npm: If you install node.js, it will install npm, too
-          Angular CLI: Run the following command- npm i @angular/cli
+ Step 1: Prerequisites for an angular project
+         Angular CLI
+         Node.js
+         Visual Studio Code
+ Step 2: To check if Node.js is already installed on your machine, check for its version using the following command. If it is already installed, it will return the            version number.  
+         For Node.js: Node -v
+ Step 3: Similarly, check whether the npm and Angular CLI are already installed with the following command to check the version.
+         For NPM: npm -v
+         For Angular CLI: ng version
+ Step 4: If they aren’t installed, install them with the details below
+         Node.js: https://nodejs.org/en/download/
+         Npm: If you install node.js, it will install npm, too
+         Angular CLI: Run the following command- npm i @angular/cli
 
 # Building the Application
 Step 1: Create a new project named as user-information with the following command which will create a boiler plate code which will have default main/root component             which is AppComponent-
